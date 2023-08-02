@@ -9,6 +9,8 @@ public class StudentManagmentSystemApplication {
     public static void main(String[] args) {
         SpringApplication.run(StudentManagmentSystemApplication.class, args);
         System.out.println("Student-Managment-System testing");
+        System.out.printf("salom");
+
     }
 
 }
