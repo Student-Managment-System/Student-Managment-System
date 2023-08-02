@@ -10,6 +10,9 @@ public class StudentManagmentSystemApplication {
         SpringApplication.run(StudentManagmentSystemApplication.class, args);
         System.out.println("Student-Managment-System testing");
         System.out.println("sardor can't not pushing");
+
+
     }
+
 
 }
